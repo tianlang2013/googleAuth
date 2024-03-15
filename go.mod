@@ -1,3 +1,3 @@
-module google-auth
+module googleAuth
 
 go 1.21.4
